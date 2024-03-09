@@ -32,7 +32,7 @@ function Header () {
             </li>
           </ul>
           <form role="search">
-            <input className="form-control" type="search" placeholder="Search" aria-label="Search"></input>
+            <input className="form-control" type="search" placeholder="Search" aria-label="Search"/>
           </form>
         </div>
       </div>

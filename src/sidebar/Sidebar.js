@@ -1,8 +1,10 @@
 import "./sidebar.css"
 
-function Sidebar () {
+function Sidebar() {
   return (
-    <h1 className="sidebar">Sidebar</h1>
+    <>
+      <h1 className="sidebar">Sidebar</h1>
+    </>
   )
 };
 
