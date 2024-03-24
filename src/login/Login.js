@@ -1,7 +1,7 @@
 function Login() {
   return (
     <>
-      <h1 className="text-center">Login here</h1>
+      <h1 className="text-center">Login</h1>
       <div className="d-flex justify-content-center">
         <form>
           <div className="mb-3">
